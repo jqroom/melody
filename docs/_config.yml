@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Melody
   location: Location
   social: Around the Web
   credits: Credits
@@ -47,16 +47,14 @@ social:
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Address：No.37 Building, 5th Zone, Huaide Cuigang Industrial Park,
+  - line: Fuyong Town, Bao’an District, Shenzhen, China, 518103
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
