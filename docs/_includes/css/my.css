@@ -1,0 +1,11 @@
+body, .btn-success {
+    color: #000;
+}
+
+.products-wp, .contact-wp {
+    background-color: #eee;
+}
+
+.btn-success {
+    background-color: #c8c8c8;
+}
